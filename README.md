@@ -1,3 +1,16 @@
+
+# SQL Music Store Analysis
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/Koushik9127/SQL-Projects)](https://github.com/Koushik9127/SQL-Projects)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Koushik9127/SQL-Projects)](https://github.com/Koushik9127/SQL-Projects)
+[![GitHub license](https://img.shields.io/github/license/Koushik9127/SQL-Projects)](https://github.com/Koushik9127/SQL-Projects/blob/main/LICENSE)
+
+Welcome to the **SQL-Projects** repository!  
+This project contains an end-to-end SQL analysis of a fictional **digital music store database**, where we explore business questions using structured queries.
+
+---
+
+
 # SQL Music Store Analysis
 
 Welcome to the **SQL-Projects** repository!  
