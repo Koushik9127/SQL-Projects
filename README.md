@@ -1,65 +1,57 @@
-# SQL Projects
+# SQL Projects Source Code
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/Koushik9127/SQL-Projects)](https://github.com/Koushik9127/SQL-Projects)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Koushik9127/SQL-Projects)](https://github.com/Koushik9127/SQL-Projects)
-[![GitHub license](https://img.shields.io/github/license/Koushik9127/SQL-Projects)](https://github.com/Koushik9127/SQL-Projects/blob/main/LICENSE)
+This repository contains source code for popular SQL projects for beginners, intermediate, and advance. The SQL queries are written for `PostreSQL` database.
 
-**Welcome to my SQL Projects Repository!**
+## Library Management
 
-This repository is a curated collection of real-world SQL projects that showcase my ability to explore data, answer business questions, and write optimized SQL queries.
+[View Source Code for Library Management](markdown_files/library_management.md)
 
-Each folder in this repository represents a different SQL-based case study or analysis project.
+[Download Source Code for Library Management](library_management.sql)
 
----
+## Student Database Management
 
-## 📌 Skills Demonstrated
+[View Source Code for Student Database Management](markdown_files/student_management.md)
 
-- SQL Joins (INNER, LEFT, RIGHT, SELF)
-- Grouping & Aggregation
-- Subqueries & Common Table Expressions (CTEs)
-- Window Functions
-- Data Cleaning & Filtering
-- Business Data Analysis
+[Download Source Code for Student Database Management](student_management.sql)
 
----
+## Online Retail Application Database 
 
-## 🧠 Why SQL?
+[View Source Code for Online Retail Application Database](markdown_files/online_retail_app.md)
 
-Structured Query Language (SQL) is the foundation of working with relational databases. These projects aim to:
-- Solve business problems with data
-- Extract and summarize insights
-- Demonstrate clean, readable, and efficient SQL code
+[Download Source Code for Online Retail Application Database](online_retail_app.sql)
 
----
+## Online Inventory Control Management
 
-## 🛠️ Tools Used
+[View Source Code for Online Inventory Control Management](markdown_files/inventory_control_management.md)
 
-- PostgreSQL / SQLite / MySQL (varies by project)
-- DBeaver / DB Browser for SQLite
-- Git & GitHub for version control
-- Markdown for documentation
+[Download Source Code for Online Inventory Control Management](inventory_control_management.sql)
 
----
+## Railway System Database
 
-## 📈 More Coming Soon
+[View Source Code for Railway System Database](markdown_files/railway_system.md)
 
-This repository will continue to grow with new projects including:
-- E-commerce sales analysis
-- Employee performance and HR analytics
-- Sports and event databases
-- Financial and marketing SQL dashboards
+[Download Source Code for Railway System Database](railway_system.sql)
 
----
+## Cooking Recipe Database
 
-## 🤝 Let's Connect
+[View Source Code for Cooking Recipe Database](markdown_files/cooking_recipe.md)
 
-> Built by [Koushik9127](https://github.com/Koushik9127)  
-> Feel free to explore, fork, or contribute!
+[Download Source Code for Cooking Recipe Database](cooking_recipe.sql)
 
----
+## Hospital Management System
 
-## 📄 License
+[View Source Code for Hospital Management System](markdown_files/hospital_management.md)
 
-This project is open source under the [MIT License](LICENSE).
+[Download Source Code for Hospital Management System](hospital_management.sql)
 
+## Billing System for a Departmental Store
 
+[View Source Code for Billing System for a Departmental Store](markdown_files/billing_system.md)
+
+[Download Source Code for Billing System for a Departmental Store](billing_system.sql)
+
+## Bus Booking System Mini Project
+
+[View Source Code for Bus Booking System Mini Project](markdown_files/bus_booking.md)
+
+[Download Source Code for Bus Booking System Mini Project](bus_booking.sql)
