@@ -1,13 +1,80 @@
-# SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data
+# SQL Music Store Analysis
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+Welcome to the **SQL-Projects** repository!  
+This project contains an end-to-end SQL analysis of a fictional **digital music store database**, where we explore business questions using structured queries.
 
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+---
 
-## Database and Tools
-* Postgre SQL
-* PgAdmin4
+## Project Objective
 
-Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+Analyze the sales, customer behavior, and artist performance from a music store database using SQL.
+
+---
+
+## Project Structure
+
+SQL_Music_Store_Analysis-main/
+├── queries/ # All SQL query files (.sql)
+├── screenshots/ # Query result screenshots (if any)
+├── datasets/ # Sample CSVs or DB schema (if needed)
+├── README.md # Project documentation
+
+
+---
+
+## Skills Used
+
+- SQL Joins (INNER, LEFT, SELF)
+- Aggregation & Grouping
+- Subqueries & CTEs
+- Window Functions
+- Date & String Functions
+- Data Exploration & Reporting
+
+---
+
+## Analysis Topics Covered
+
+- Best-selling tracks and genres
+- Top customers by revenue
+- Sales distribution by country
+- Most popular artists
+- Purchase trends over time
+
+---
+
+## Sample Questions Answered
+
+- Which artist generated the most revenue?
+- What are the most popular music genres?
+- Who are the top 5 customers by purchase amount?
+- Which country generates the highest revenue per customer?
+
+---
+
+## Database Source
+
+This project is based on the **Chinook Database**, a sample dataset often used for SQL practice.
+
+> [Chinook DB GitHub Repo](https://github.com/lerocha/chinook-database)
+
+---
+
+## How to Use
+
+You can:
+- Open `.sql` files using any SQL editor (e.g., DBeaver, DB Browser for SQLite, VSCode SQL extensions)
+- Import the Chinook database and run the queries to reproduce the analysis
+
+---
+
+## Let's Connect
+
+> Built by [Koushik9127](https://github.com/Koushik9127)  
+> Feel free to explore, fork, or contribute!
+
+---
+
+## License
+
+This project is open source under the [MIT License](LICENSE).
