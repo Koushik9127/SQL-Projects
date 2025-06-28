@@ -1,57 +1,51 @@
-# SQL Projects Source Code
+ SQL Projects for Practice
 
-This repository contains source code for popular SQL projects for beginners, intermediate, and advance. The SQL queries are written for `PostreSQL` database.
+This repository contains hands-on SQL projects designed to improve my understanding of real-world database querying and relational data modeling.
 
-## Library Management
+The goal is to explore foundational SQL skills through practical examples — including table creation, joins, constraints, and meaningful queries.
 
-[View Source Code for Library Management](markdown_files/library_management.md)
+---
 
-[Download Source Code for Library Management](library_management.sql)
+## 📁 Projects Included
 
-## Student Database Management
+- **Library Management System**  
+  A simple database simulating books, members, borrowings, and late returns.
 
-[View Source Code for Student Database Management](markdown_files/student_management.md)
+- **Student Database Management**  
+  Practice working with student records, marks, departments, and academic data.
 
-[Download Source Code for Student Database Management](student_management.sql)
+- **Online Retail Database**  
+  Model a small-scale online store with products, orders, customers, and categories.
 
-## Online Retail Application Database 
+---
 
-[View Source Code for Online Retail Application Database](markdown_files/online_retail_app.md)
+## 🔧 Key SQL Concepts Covered
 
-[Download Source Code for Online Retail Application Database](online_retail_app.sql)
+- Creating and managing tables
+- Primary keys and foreign keys
+- Constraints (NOT NULL, UNIQUE, CHECK)
+- Joins (INNER, LEFT, RIGHT)
+- Subqueries and aggregation
+- Filtering and grouping
 
-## Online Inventory Control Management
+---
 
-[View Source Code for Online Inventory Control Management](markdown_files/inventory_control_management.md)
+## 🛠 Tools Used
 
-[Download Source Code for Online Inventory Control Management](inventory_control_management.sql)
+- SQLite / PostgreSQL / MySQL (compatible with all)
+- DB Browser for SQLite / DBeaver
+- Git for version control
 
-## Railway System Database
+---
 
-[View Source Code for Railway System Database](markdown_files/railway_system.md)
+## 📌 Note
 
-[Download Source Code for Railway System Database](railway_system.sql)
+These projects are intended for learning purposes.  
+Inspired by community resources and adapted into my own structured format for long-term learning and revision.
 
-## Cooking Recipe Database
+---
 
-[View Source Code for Cooking Recipe Database](markdown_files/cooking_recipe.md)
+## 📄 License
 
-[Download Source Code for Cooking Recipe Database](cooking_recipe.sql)
+All content is shared under the [MIT License](LICENSE). Attribution is included where relevant.
 
-## Hospital Management System
-
-[View Source Code for Hospital Management System](markdown_files/hospital_management.md)
-
-[Download Source Code for Hospital Management System](hospital_management.sql)
-
-## Billing System for a Departmental Store
-
-[View Source Code for Billing System for a Departmental Store](markdown_files/billing_system.md)
-
-[Download Source Code for Billing System for a Departmental Store](billing_system.sql)
-
-## Bus Booking System Mini Project
-
-[View Source Code for Bus Booking System Mini Project](markdown_files/bus_booking.md)
-
-[Download Source Code for Bus Booking System Mini Project](bus_booking.sql)
